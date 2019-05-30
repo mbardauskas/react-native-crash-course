@@ -8,7 +8,7 @@ First of all — user expectations. Here are some interesting numbers:
 * More than half of users blame the app for being slow, not their device.
 * Four out of five users will attempt to use a slow app only 3 times or less before removing it.
 
-Furthermore, mobile devices are used more than desktop machines. It’s a matter of access and it depends on the time of day and other factors, but the tendency clearly is for people to use their mobile phones more.
+Furthermore, mobile devices are used more than desktop machines. It’s a matter of access and it depends on the time of day and other factors, but [the tendency clearly is for people to use their mobile phones more](https://techjury.net/stats-about/mobile-vs-desktop-usage/).
 
 > :point_right: I suggest maybe adding some reference links above to prove the point you are making (this is just a suggestion, of course).
 
